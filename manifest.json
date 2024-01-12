@@ -19,5 +19,11 @@
 		"scripts":[
 			"background.js"
 		]
-	}
+	},
+	"browser_specific_settings": {
+		"gecko": {
+		  "id": "4ea3c6e6-33ed-4760-bbf2-2bfb1ce19cab"
+		}
+	  }
+	  
 }
